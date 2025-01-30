@@ -21,6 +21,8 @@ Soy un apasionado del desarrollo web con un enfoque en la creación de interface
 
 ## Proyectos Destacados
 
+### [Portafolio](https://portafolio-theta-pied.vercel.app/)
+
 ### [AluraFlix](https://alura-flix-seven-sooty.vercel.app/)
 Una página donde podría guarda los videos de tu intereses.
 
