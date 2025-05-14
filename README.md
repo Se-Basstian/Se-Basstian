@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sebastián 👋
 
-### Desarrollador Front-End Junior
+### Desarrollador Front-End 
 
 Soy un apasionado del desarrollo web con un enfoque en la creación de interfaces de usuario atractivas y funcionales. Me encanta aprender y mejorar mis habilidades constantemente.
 
@@ -26,7 +26,7 @@ Soy un apasionado del desarrollo web con un enfoque en la creación de interface
 ### [AluraFlix](https://alura-flix-seven-sooty.vercel.app/)
 Una página donde podría guarda los videos de tu intereses.
 
-### [AluraGeek](https://github.com/Se-Basstian/AluraGeek)
+### [Alura-Geek](https://alura-geek-five-rouge.vercel.app/)
 
 
 ## Contacto
